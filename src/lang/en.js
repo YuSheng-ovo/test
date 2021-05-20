@@ -74,7 +74,7 @@ export default {
     test: 'test'
   },
   login: {
-    title: 'Login ',
+    title: '登录 ',
     info: 'Rapid Development Framework of General Management System',
     username: 'Please input username',
     password: 'Please input a password',
